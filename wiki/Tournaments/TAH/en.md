@@ -1,8 +1,7 @@
- ---
-tags:
-| TAH |
 ---
-
+tags:
+  - TAH
+---
 # Tropical Acc Haven
 
 ![TAH logo](img/banner.png) <!-- replace "logo" with "banner" if that suits the image better -->
