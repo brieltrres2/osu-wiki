@@ -29,7 +29,6 @@ The **Tropical Accuracy Haven** (***TAH***) is a double-elimination, Head to Hea
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (pending), 12 months of osu!supporter, Custom profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, Custom profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, Custom profile banner |
-| *4th place* |  |
 
 <!--- BADGE NOT AVAILABLE ![](img/badge.jpg "TAH winner badge") --->
 
@@ -39,7 +38,7 @@ The Tropical Acc Haven is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{flag=PR}:: [jiffy](https://osu.ppy.sh/users/16732161), ![][flag_US] [artemmmmmm](https://osu.ppy.sh/users/30604059) | 
+| Manager | {flag=PR} [jiffy](https://osu.ppy.sh/users/16732161), ![][flag_US] [artemmmmmm](https://osu.ppy.sh/users/30604059) | 
  | Head Map Selector | ![][flag_AR] [Mikelito069](https://osu.ppy.sh/users/13714351) |
 | Map Selector | ![][flag_PH] [ChaeY_Milk](https://osu.ppy.sh/users/10383440), ![][flag_BR] [levica](https://osu.ppy.sh/users/26626040), ![][flag_RU] [KladVomzin01](https://osu.ppy.sh/users/11801407), ![][flag_PE] [stanly_](https://osu.ppy.sh/users/16952330), ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161) |
 | Streamer | ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161) |
