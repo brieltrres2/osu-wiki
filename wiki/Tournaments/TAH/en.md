@@ -1,6 +1,6 @@
  ---
-tags: # yamllint disable rule:braces rule:osu-wiki-nested-structure
-  - TAH
+tags:
+| TAH |
 ---
 
 # Tropical Acc Haven
