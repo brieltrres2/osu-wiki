@@ -6,7 +6,7 @@ tags:
 
 ![TAH logo](img/banner.png) <!-- replace "logo" with "banner" if that suits the image better -->
 
-The **Tropical Accuracy Haven** (***TAH***) is a double-elimination, Head to Head, osu!standard tournament hosted by ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161), in collaboration with ![][flag_US] [artemmmmmm](https://osu.ppy.sh/users/30604059). The tournament is restricted to players within Caribbean or Central American countries.
+The **Tropical Accuracy Haven** (***TAH***) is a double-elimination, Head to Head, osu!standard tournament hosted by ::{flag_PR}:: [jiffy](https://osu.ppy.sh/users/16732161), in collaboration with ::{flag_US}:: [artemmmmmm](https://osu.ppy.sh/users/30604059). The tournament is restricted to players within Caribbean or Central American countries.
 
 ## Tournament schedule
 
@@ -37,14 +37,14 @@ The Tropical Acc Haven is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager |![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161), ![][flag_US] [artemmmmmm](https://osu.ppy.sh/users/30604059) | 
- | Head Map Selector | ![][flag_AR] [Mikelito069](https://osu.ppy.sh/users/13714351) |
-| Map Selector | ![][flag_PH] [ChaeY_Milk](https://osu.ppy.sh/users/10383440), ![][flag_BR] [levica](https://osu.ppy.sh/users/26626040), ![][flag_RU] [KladVomzin01](https://osu.ppy.sh/users/11801407), ![][flag_PE] [stanly_](https://osu.ppy.sh/users/16952330), ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161) |
-| Streamer | ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161) |
-| Commentator | ![][flag_PH] [ChaeY_Milk](https://osu.ppy.sh/users/10383440),![][flag_US][NHE Silent](https://osu.ppy.sh/users/20345199), ![][flag_GB][Jacobpokemon](https://osu.ppy.sh/users/32566607) |
-| Designer |  ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161), ![][flag_US] [artemmmmmm](https://osu.ppy.sh/users/30604059),![][flag_US] [bbbprooooo](https://osu.ppy.sh/users/32401284)  |
-| Referee | ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161), ![][flag_US] [chia](https://osu.ppy.sh/users/16605757), ![][flag_BA] [alisha](https://osu.ppy.sh/users/29031839/osu), ![][flag_PH] [ChaeY_Milk](https://osu.ppy.sh/users/10383440/osu), ![][flag_GB] [reforna](https://osu.ppy.sh/users/16199365/osu), ![][flag_US] [Sisyphus](https://osu.ppy.sh/users/20345199/osu), ![][flag_GB] [Ojab](https://osu.ppy.sh/users/32566607/osu) |
-| Statistician | ![][flag_PR] [jiffy](https://osu.ppy.sh/users/16732161) |
+| Manager |::{flag_PR}:: [jiffy](https://osu.ppy.sh/users/16732161), ::{flag_US}:: [artemmmmmm](https://osu.ppy.sh/users/30604059) | 
+ | Head Map Selector | ::{flag_AR}:: [Mikelito069](https://osu.ppy.sh/users/13714351) |
+| Map Selector | ::{flag_PH}:: [ChaeY_Milk](https://osu.ppy.sh/users/10383440), ::{flag_BR}:: [levica](https://osu.ppy.sh/users/26626040), ::{flag_RU}:: [KladVomzin01](https://osu.ppy.sh/users/11801407), ::{flag_PE}:: [stanly_](https://osu.ppy.sh/users/16952330), ::{flag_PR}:: [jiffy](https://osu.ppy.sh/users/16732161) |
+| Streamer | ::{flag_PR}:: [jiffy](https://osu.ppy.sh/users/16732161) |
+| Commentator | ::{flag_PH}:: [ChaeY_Milk](https://osu.ppy.sh/users/10383440), ::{flag_US}:: [NHE Silent](https://osu.ppy.sh/users/20345199), ::{flag_GB}:: [Jacobpokemon](https://osu.ppy.sh/users/32566607) |
+| Designer |  ::{flag_PR}:: [jiffy](https://osu.ppy.sh/users/16732161), ::{flag_US}:: [artemmmmmm](https://osu.ppy.sh/users/30604059),::{flag_US}:: [bbbprooooo](https://osu.ppy.sh/users/32401284)  |
+| Referee | ::{flag_PR}:: [jiffy](https://osu.ppy.sh/users/16732161), ::{flag_US}:: [chia](https://osu.ppy.sh/users/16605757), ::{flag_BA}:: [alisha](https://osu.ppy.sh/users/29031839/osu), ::{flag_PH}:: [ChaeY_Milk](https://osu.ppy.sh/users/10383440/osu), ::{flag_GB}:: [reforna](https://osu.ppy.sh/users/16199365/osu), ::{flag_US}:: [Sisyphus](https://osu.ppy.sh/users/20345199/osu), ::{flag_GB}:: [Ojab](https://osu.ppy.sh/users/32566607/osu) |
+| Statistician | ::{flag_PR}:: [jiffy](https://osu.ppy.sh/users/16732161) |
 
 <!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
 
@@ -59,25 +59,25 @@ The Tropical Acc Haven is run by various community members.
 The competition is yet to determine seeding. These are the registered players.
 | Member |
 | :-- | :-- |
-| ![][flag_PA] [Leonard H](https://osu.ppy.sh/users/11562243/osu), |
-| ![][flag_SV] [Stalemated](https://osu.ppy.sh/users/10936276/osu), |
-| ![][flag_PA] [Sirny](https://osu.ppy.sh/users/18962732/osu) |
-| ![][flag_PA] [ne0craft](https://osu.ppy.sh/users/17545095/osu) |
-| ![][flag_HN] [Marley](https://osu.ppy.sh/users/20681109/osu) |
-| ![][flag_PR] [Tepi20](https://osu.ppy.sh/users/9480554/osu) |
-| ![][flag_PA] [AR9](https://osu.ppy.sh/users/5136821/osu) |
-| ![][flag_PR] [Shade-ette](https://osu.ppy.sh/users/15726597/osu) |
-| ![][flag_DO] [WillLITE](https://osu.ppy.sh/users/6677788/osu) |
-| ![][flag_GY] [KJF](https://osu.ppy.sh/users/1156813/osu) |
-| ![][flag_SV] [Hotaka_](https://osu.ppy.sh/users/10575848/osu) |
-| ![][flag_MF] [SuperMegaT](https://osu.ppy.sh/users/22761224/osu) |
-| ![][flag_PR] [Txmas](https://osu.ppy.sh/users/11933573/osu) |
-| ![][flag_PA] [LI6ARD](https://osu.ppy.sh/users/20380990/osu) |
-| ![][flag_TT] [DeadShotPowa](https://osu.ppy.sh/users/21080822/osu) |
-| ![][flag_GT] [Ai](https://osu.ppy.sh/users/12078347/osu) |
-| ![][flag_PA] [zthere](https://osu.ppy.sh/users/11562243/osu) |
-| ![][flag_PR] [Mk08cc](https://osu.ppy.sh/users/18210753/osu) |
-| ![][flag_JM] [Steven-_-](https://osu.ppy.sh/users/23072118/osu) |
+| ::{flag_PA}:: [Leonard H](https://osu.ppy.sh/users/11562243/osu), |
+| ::{flag_SV}:: [Stalemated](https://osu.ppy.sh/users/10936276/osu), |
+| ::{flag_PA}:: [Sirny](https://osu.ppy.sh/users/18962732/osu) |
+| ::{flag_PA}:: [ne0craft](https://osu.ppy.sh/users/17545095/osu) |
+| ::{flag_HN}:: [Marley](https://osu.ppy.sh/users/20681109/osu) |
+| ::{flag_PR}:: [Tepi20](https://osu.ppy.sh/users/9480554/osu) |
+| ::{flag_PA}:: [AR9](https://osu.ppy.sh/users/5136821/osu) |
+| ::{flag_PR}:: [Shade-ette](https://osu.ppy.sh/users/15726597/osu) |
+| ::{flag_DO}:: [WillLITE](https://osu.ppy.sh/users/6677788/osu) |
+| ::{flag_GY}:: [KJF](https://osu.ppy.sh/users/1156813/osu) |
+| ::{flag_SV}:: [Hotaka_](https://osu.ppy.sh/users/10575848/osu) |
+| ::{flag_MF}:: [SuperMegaT](https://osu.ppy.sh/users/22761224/osu) |
+| ::{flag_PR}:: [Txmas](https://osu.ppy.sh/users/11933573/osu) |
+| ::{flag_PA}:: [LI6ARD](https://osu.ppy.sh/users/20380990/osu) |
+| ::{flag_TT}:: [DeadShotPowa](https://osu.ppy.sh/users/21080822/osu) |
+| ::{flag_GT}:: [Ai](https://osu.ppy.sh/users/12078347/osu) |
+| ::{flag_PA}:: [zthere](https://osu.ppy.sh/users/11562243/osu) |
+| ::{flag_PR}:: [Mk08cc](https://osu.ppy.sh/users/18210753/osu) |
+| ::{flag_JM}:: [Steven-_-](https://osu.ppy.sh/users/23072118/osu) |
 
 ## Ruleset
 
