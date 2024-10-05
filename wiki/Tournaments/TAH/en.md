@@ -58,9 +58,9 @@ The Tropical Acc Haven is run by various community members.
 
 The competition is yet to determine seeding. These are the registered players.
 | Member |
-| :-- | :-- |
-| ::{flag_PA}:: [Leonard H](https://osu.ppy.sh/users/11562243/osu), |
-| ::{flag_SV}:: [Stalemated](https://osu.ppy.sh/users/10936276/osu), |
+| :-- |
+| ::{flag_PA}:: [Leonard H](https://osu.ppy.sh/users/11562243/osu) |
+| ::{flag_SV}:: [Stalemated](https://osu.ppy.sh/users/10936276/osu) |
 | ::{flag_PA}:: [Sirny](https://osu.ppy.sh/users/18962732/osu) |
 | ::{flag_PA}:: [ne0craft](https://osu.ppy.sh/users/17545095/osu) |
 | ::{flag_HN}:: [Marley](https://osu.ppy.sh/users/20681109/osu) |
